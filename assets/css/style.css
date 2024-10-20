@@ -744,7 +744,7 @@ main {
 }
 
 .clients-item {
-  min-width: 10%;
+  min-width: 50%;
   scroll-snap-align: start;
 }
 
